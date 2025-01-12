@@ -1,4 +1,4 @@
-# Team-Weathy
+# Team-Inframe
 
 ### 커밋 컨벤션
 | 카테고리 | 설명 |
