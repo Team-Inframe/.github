@@ -1,10 +1,10 @@
-<h4 align="center"> 2025 Techeer Winter BootCamp </h1>
+<h4 align="center"> 2024 Techeer Winter BootCamp </h1>
 <h1 align="center"> 🖼️InFrame🖼️</h1>
 <div align="center"> 
 <h3><b> 인생네컷을 내맘대로 꾸며보고 싶지 않으셨나요? 
-        놀랍게도 InFrame에서는 꾸며볼수 있습니다!! 꿈을 한번 펼쳐보세요 InFrame</b></h3><br>
-<img width="1503" src="https://github.com/user-attachments/assets/11744f71-598c-436f-9cbd-9ad0ddc6e90a">
-<h3><b>MVStudio를 통해 창의적인 아이디어를 실현해 보세요!</b></h3>
+         당신만의 특별한 순간을 간직하세요!!</b></h3><br>
+<img width="1503" src="">
+
 
 <br>
 
@@ -28,72 +28,56 @@
 
 # 📣 Introduction
 ### URL
-> 🖥️ [MVStudio](https://mvstudio.pro) (배포 중단)
+> 🖥️  (배포 중단)
 
 ### Medium
-> 🔎 [MVStudio Medium](https://medium.com/@jinoo0306/ai%EA%B0%80-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EB%8A%94-%EB%AE%A4%EC%A7%81-%EB%B9%84%EB%94%94%EC%98%A4-%EC%84%9C%EB%B9%84%EC%8A%A4-mvstudio-fc098ae02a08) &nbsp;
+> 🔎 [InFrame]() &nbsp;
 
 <br>
 
-- **사용자가 선택한 다양한 옵션에 따라 맞춤형 뮤직비디오를 생성**
-- **AI 기술을 활용하여 높은 퀄리티의 뮤직비디오를 신속하게 제작**
-- **장르, 악기, 주제, 분위기를 자유롭게 지정 가능**
-- **사용자 채널 관리 및 차트 기반 분석 제공**
-- **완성된 뮤직비디오를 소셜 미디어에 쉽게 공유**
-- **제작한 뮤직비디오를 개인 프로젝트에 활용 가능**
+- **사용자가 선택한 다양한 프레임에 따라 맞춤형 인생네컷을 생성**
+- **AI 기술을 활용하여 높은 퀄리티의 네컷 사진진을 제작**
+- **연예인, 캐릭터, 동물, 사물 스티커를 자유롭게 부착 가능**
+- **완성된 네컷 사진을 소셜 미디어에 쉽게 공유**
+
 
 <br>
 
 # 🕺🏻 Demo
 ### Onboarding Page
-> MVStudio의 간략한 설명을 담고 있습니다.
-<img align="center" width="1000" alt="Onboarding" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB-%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8-2024-08-03-%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB-2%20(2).gif">
+> InFrame의 간략한 설명을 담고 있습니다.
+<img align="center" width="1000" alt="Onboarding" src=" ">
 
 
 
 ### Login & Sign up
-> 구글 소셜 로그인 및 회원가입을 통해 손쉽게 로그인하실 수 있습니다.
+> 로그인 및 회원가입을 통해 손쉽게 로그인하실 수 있습니다.
 <br>
-<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/a80f83ab-90b0-41bb-8927-143d27dcda51">
+<img align="center" width="1000" alt="Login & Sign up" src=" ">
 
 <br>
 
 ### Main Page
-> 다른 사람들의 뮤직비디오를 시청할 수 있습니다.<br>
-> 최신순, 조회수순, 급상승, 자신의 국가와 나이대별 인기순으로 목록 조회 할 수 있습니다.
+> 다른 사람들이 만든 프레임을 볼 수 있습니다.<br>
+> 최신순, 핫한순(하루 마다 바뀜)으로 목록 조회 할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-08-03%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%206%20(1).gif">
+<img align="center" width="1000" alt="Login & Sign up" src=" ">
 
 <br>
 
-### Search Music Video
-> 검색 기능을 통해 원하는 뮤직비디오를 쉽게 찾을 수 있습니다.
+### Create Frame
+> 사용자는 프레임,기본 배경,사진 배경, ai 스티커, 사진 스티커를 설정하여 프레임을 생성 할 수 있습니다.<br>
+> 마지막으로 사진 촬영, 사진 삽입으로 네컷 사진을 생성할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/dc648d65-0ea9-4dc5-98e5-14f42ec4b256">
+<img align="center" width="1000" alt="" src=" ">
 
 <br>
 
-### Create Music Video
-> 사용자는 장르, 악기, 영상 스타일, 제목, 보컬, 언어, 템포를 직접 설정하여 뮤직비디오를 생성할 수 있습니다.<br>
-> 선택한 설정을 바탕으로 제공되는 세 개의 가사 중 원하는 가사를 선택하면 해당 가사로 뮤직비디오가 생성됩니다.
+### Storage
+> 사용자는 보관함에서 내가 만든 프레임, 저장한 프레임, 갤러리로 네컷 사진, 프레임을 확인 할 수 있습니다.<br>
+> 내가 만든 프레임, 저장한 프레임, 갤러리는 최신순으로 정렬 되어있습니다.
 <br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/7ec0a76d-8998-4913-89f7-72f8d6e0590c">
-
-<br>
-
-### Play Music Video
-> 뮤직비디오를 클릭하면 재생 페이지로 이동하여 시청할 수 있습니다.<br>
-> 이 페이지에서 총 조회수, 만든 사람, 가사를 확인할 수 있으며 시청 도중 나중에 다시 와도 이전에 보던 부분부터 계속 시청할 수 있습니다.
-<br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/b3268116-9b7e-42fb-b01f-354d919f03ab">
-
-<br>
-  
-### My Page
-> 사용자는 마이페이지에서 자신이 만든 뮤직비디오와 최근에 시청한 뮤직비디오를 확인할 수 있습니다.<br>
-> 인스타그램과 유튜브 버튼을 통해 자신의 인스타그램과 유튜브 계정으로 바로 이동할 수 있습니다.
-<br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/db9365d8-7e89-4de1-9886-d03406757de0">
+<img align="center" width="1000" alt="" src=" ">
 
 <br>
 
