@@ -89,7 +89,7 @@
 
 # 🛠 ️System Architecture <a name="-system-architecture"></a>
 <div align="center">
-  <img align="center" width="1000" src=" ">
+  <img align="center" width="1000" src="https://github.com/user-attachments/assets/e3794e0b-3aa3-4ec9-a4e9-d534fc8eb06f">
 </div>
 <br><br>
 
@@ -140,7 +140,7 @@
         <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=black">
         <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=black">
         <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-        <img src="https://img.shields.io/badge/traefik-61DAFB?style=for-the-badge&logo=traefik&logoColor=white">
+        <img src="https://img.shields.io/badge/Traefik-61DAFB?style=for-the-badge&logo=traefik&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -165,7 +165,7 @@
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=black">
         <img src="https://img.shields.io/badge/cadvisor-1478FF?style=for-the-badge&logoColor=black">
         <img src="https://img.shields.io/badge/node_exporter-37D100?style=for-the-badge&logoColor=black">
-        <img src="https://img.shields.io/badge/grafana loki-%23F46800.svg?style=for-the-badge&logoColor=black">
+        <img src="https://img.shields.io/badge/Loki-%23F46800.svg?style=for-the-badge&logoColor=black">
       </td>
     </tr>
     <tr>
@@ -189,46 +189,36 @@
   <h3 align="left">Prometheus & Grafana</h3>
   <table>
         <tr>
-            <th colspan="2">Django</th>
+            <th colspan="2">Loki</th>
         </tr>
         <tr>
-            <td><img src=""></td>
-            <td><img src=""></td>
+            <td><img src="https://github.com/user-attachments/assets/52bdd092-8a4c-4ce2-abcc-4ebd17f270f9"></td>
         </tr>
         <tr>
-            <th colspan="2">Celery</th>
+            <th colspan="2">Traefik</th>
         </tr>
         <tr>
-            <td><img src=""></td>
-            <td><img src=""></td>
+            <td><img src="https://github.com/user-attachments/assets/dbf77890-9477-42a9-a48e-b43a9ef51932"></td>
+            <td><img src="https://github.com/user-attachments/assets/f930450c-99d3-4be5-bb3f-2bfbcecfbced"></td>
         </tr>
         <tr>
             <th colspan="2">cAdvisor</th>
         </tr>
         <tr>
-            <td><img src=""></td>
-            <td><img src=""></td>
+            <td><img src="https://github.com/user-attachments/assets/2f3f9e8b-c63e-44f4-9fb5-1df69b83353e"></td>
+            <td><img src="https://github.com/user-attachments/assets/3fd57ada-c314-4ca4-bbb0-0f0640907375"></td>
         </tr>
         <tr>
             <th colspan="2">Node Exporter</th>
         </tr>
         <tr>
-            <td><img src=""></td>
-            <td><img src=""></td>
+            <td><img src="https://github.com/user-attachments/assets/aa3d023a-0fcf-4308-8fde-ccb9524dfc8b"></td>
+            <td><img src="https://github.com/user-attachments/assets/7c4ea035-0089-4717-ad53-9a90dc4b5330"></td>
         </tr>
     </table>
 </div>
 
 <br>
-
-# 🔧Logging
-
-<div align="center">
-   
-
-   
-</div>
-
 
 # 👥 Team Members
 <table>
