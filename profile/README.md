@@ -1,9 +1,9 @@
 <h1 align="center"> 🖼️InFrame🖼️</h1>
 <div align="center"> 
 <h3><b> 인생네컷을 내맘대로 꾸며보고 싶지 않으셨나요? 
-         당신만의 특별한 순간을 간직하세요!!</b></h3><br>
-<img width="1503" src="">
+         당신만의 특별한 순간을 간직하세요!</b></h3><br>
 
+![표지 2안 (2)](https://github.com/user-attachments/assets/d31fff32-4a77-472e-aefa-96c6bde6a1ad)
 
 <br>
 
