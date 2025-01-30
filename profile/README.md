@@ -1,4 +1,4 @@
-<h4 align="center"> 2024 Techeer Winter BootCamp </h1>
+![image](https://github.com/user-attachments/assets/04d64887-04f3-470e-963e-0a373207eaa6)<h4 align="center"> 2024 Techeer Winter BootCamp </h1>
 <h1 align="center"> 🖼️InFrame🖼️</h1>
 <div align="center"> 
 <h3><b> 인생네컷을 내맘대로 꾸며보고 싶지 않으셨나요? 
@@ -82,8 +82,9 @@
 <br>
 
 # 📗 API
- <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/aef0f280-3a65-40c2-8c32-2f3027465718">
- <img align="center" width="1000" alt="members" src="https://github.com/user-attachments/assets/93f56572-e398-4810-a89b-4869fcae5ccb">
+ <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/8b30b18a-6ca1-40de-babf-f4f9837ce805">
+ <img align="center" width="1000" alt="members" src="https://github.com/user-attachments/assets/a972f4e7-efe0-4d8c-bb78-94a30edf5a35">
+
  <img align="center" width="1000" alt="music-videos" src="https://github.com/user-attachments/assets/b4d3b0ca-14c2-4bdb-a63a-50dab395f1fe">
  <img align="center" width="1000" alt="oauth" src="https://github.com/user-attachments/assets/f910a641-c8f5-4d54-8222-98d34a49f806">
 
