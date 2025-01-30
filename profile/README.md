@@ -123,6 +123,7 @@
            <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
            <img src="https://img.shields.io/badge/zustand-F3DF49?style=for-the-badge&logo=zustand&logoColor=white">
            <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
+           <img src="https://img.shields.io/badge/pwa-%#5A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white">
          </td>
     </tr>
     <tr>
@@ -155,6 +156,7 @@
     <tr>
       <td><b>AI</b></td>
       <td>
+         <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
 
       </td>
     </tr>
