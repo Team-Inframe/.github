@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/04d64887-04f3-470e-963e-0a373207eaa6)<h4 align="center"> 2024 Techeer Winter BootCamp </h1>
 <h1 align="center"> 🖼️InFrame🖼️</h1>
 <div align="center"> 
 <h3><b> 인생네컷을 내맘대로 꾸며보고 싶지 않으셨나요? 
@@ -86,19 +85,19 @@
  <img align="center" width="1000" alt="frames" src="https://github.com/user-attachments/assets/a972f4e7-efe0-4d8c-bb78-94a30edf5a35">
  <img align="center" width="1000" alt="photos" src="https://github.com/user-attachments/assets/f1bbcc0c-7e5d-42db-a327-29326904641d">
  <img align="center" width="1000" alt="stickers" src="https://github.com/user-attachments/assets/2f422b20-73c5-4783-b924-8880b09ae868">
- <img align="center" width="1000" alt="users" src="https://github.com/user-attachments/assets/2f422b20-73c5-4783-b924-8880b09ae868">
+ <img align="center" width="1000" alt="users" src="https://github.com/user-attachments/assets/96b13a79-444f-4023-81e6-354156080df9">
 
-<br><br>
+<br>
 
 # 🛠 ️System Architecture <a name="-system-architecture"></a>
 <div align="center">
-  <img align="center" width="1000" src="https://github.com/user-attachments/assets/9df3ac9f-c4dc-4805-9561-6482acee8fea">
+  <img align="center" width="1000" src=" ">
 </div>
 <br><br>
 
 # 🔑 ERD
 <div align="center">
-  <img width="1000" src="https://github.com/user-attachments/assets/55a76355-4840-433f-b721-415387c78a24">
+  <img width="1000" src="https://github.com/user-attachments/assets/05fe37ca-9383-436b-adb5-a09920d3dcb0">
 </div>
 <br><br>
 
@@ -252,318 +251,22 @@
    
 </div>
 
-# 🚀 How To Start
-
-### 1. Clone The Repository
-```
-https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/MVStudio-Docker.git
-```
-### 2. ENV Setting In The MVStudio-Docker Folder
-* .env
-```
-ELASTIC_VERSION=
-ELASTIC_PASSWORD=
-LOGSTASH_INTERNAL_PASSWORD=
-KIBANA_SYSTEM_PASSWORD=
-METRICBEAT_INTERNAL_PASSWORD=
-FILEBEAT_INTERNAL_PASSWORD=
-HEARTBEAT_INTERNAL_PASSWORD=
-MONITORING_INTERNAL_PASSWORD=
-BEATS_SYSTEM_PASSWORD=
-INIT_INDEX=
-```
-* MVStudio-Frontend/.env
-```
-# 개발 서버 주소
-VITE_REACT_APP_BASE_URL =
-
-# 뮤직 비디오 생성 가능 여부
-VITE_REACT_APP_IS_OPERATE = true
-```
-* MVStudio-Backend/.env
-```
-SECRET_KEY=
-DEBUG=
-
-MYSQL_ROOT_PASSWORD=
-MYSQL_DATABASE=
-MYSQL_USER=
-MYSQL_PASSWORD=
-DATABASE_HOST=
-DB_SQL_MODE=
-
-AWS_ACCESS_KEY_ID=
-AWS_SECRET_ACCESS_KEY=
-AWS_STORAGE_BUCKET_NAME=
-AWS_S3_REGION_NAME=
-
-OPENAI_API_KEY=
-SUNO_API_KEY=
-
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY=
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET=
-RUNWAYML_API_KEY=
-
-BASE_BACKEND_URL=
-BASE_FRONTEND_URL=
-REFRESH_TOKEN_SECRET=
-KAKAO_APP_ADMIN_KEY=
-CID=
-```
-<br>
-
-### 3. Run Docker
-```
-cd MVStudio-Frontend && npm install && npm run build && cd .. && docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up -d --build
-```
-<br>
-
-# 📂 Directory Structure
-
-<details>
-    <summary>MVStudio-Docker</summary>
-<pre>
-<code>
-
-📦MVStudio-Docker
-┣ 📂.github
-┣ 📂.idea
-┣ 📂alertmanager
-┣ 📂certbot
-┣ 📂elk
-┣ 📂grafana
-┃ ┗ 📂data
-┣ 📂nginx
-┃ ┣ 📂app
-┃ ┣ 📂logs
-┃ ┣ 📜Dockerfile
-┃ ┗ 📜nginx.conf
-┣ 📂prometheus
-┃ ┣ 📜alert-rules.yml
-┃ ┗ 📜prometheus.yml
-┣ 📂rds_exporter
-┃ ┣ 📂basic
-┃ ┣ 📂client
-┃ ┣ 📂config
-┃ ┣ 📂enhanced
-┃ ┣ 📂sessions
-┃ ┣ 📂tools
-┃ ┣ 📜.gitignore
-┃ ┣ 📜.golangci-required.yml
-┃ ┣ 📜.golangci.yml
-┃ ┣ 📜.goreleaser.yml
-┃ ┣ 📜CHANGELOG.md
-┃ ┣ 📜Dockerfile
-┃ ┣ 📜Dockerfile.releaser
-┃ ┣ 📜LICENSE
-┃ ┣ 📜Makefile
-┃ ┣ 📜VERSION
-┃ ┣ 📜config.tests.yml
-┃ ┣ 📜go.mod
-┃ ┣ 📜go.sum
-┃ ┗ 📜main.go
-┣ 📜.DS_Store
-┣ 📜.env
-┣ 📜.gitignore
-┣ 📜.gitmessage.txt
-┣ 📜.gitmodules
-┣ 📜README.md
-┣ 📜docker-compose-dev.yml
-┣ 📜docker-compose-prod.yml
-┣ 📜docker-compose.elk.yml
-┣ 📜docker-compose.monitoring.yml
-┣ 📜docker-compose.prod.yml
-┗ 📜init-letsencrypt.sh
-
-</code>
-</pre>
-</details>
-
-<details>
-    <summary>MVStudio-Frontend</summary>
-<pre>
-<code>
-
-📦MVStudio-Frontend
- ┣ 📂.github
- ┣ 📂.idea
- ┣ 📂dist
- ┣ 📂node_modules
- ┣ 📂src
- ┃ ┣ 📂api
- ┃ ┃ ┣ 📜axios.config.js
- ┃ ┃ ┣ 📜charts.js
- ┃ ┃ ┣ 📜member.js
- ┃ ┃ ┣ 📜musicVideos.js
- ┃ ┃ ┣ 📜onboarding.js
- ┃ ┃ ┣ 📜play.js
- ┃ ┃ ┗ 📜search.js
- ┃ ┣ 📂assets
- ┃ ┃ ┣ 📂font
- ┃ ┃ ┃ ┗ 📜SUIT-Variable.ttf
- ┃ ┃ ┗ 📜image.js
- ┃ ┣ 📂components
- ┃ ┃ ┣ 📂search
- ┃ ┃ ┃ ┗ 📜LongCover.jsx
- ┃ ┃ ┣ 📜BasicTaps.jsx
- ┃ ┃ ┣ 📜GenreSwiper.jsx
- ┃ ┃ ┣ 📜InstSwiper.jsx
- ┃ ┃ ┣ 📜Navbar.jsx
- ┃ ┃ ┣ 📜Service.jsx
- ┃ ┃ ┣ 📜Sidebar.jsx
- ┃ ┃ ┗ 📜StyleSwiper.jsx
- ┃ ┣ 📂libs
- ┃ ┃ ┗ 📂stores
- ┃ ┃ ┃ ┗ 📜userStore.js
- ┃ ┣ 📂pages
- ┃ ┃ ┣ 📂auth
- ┃ ┃ ┃ ┣ 📜Auth.jsx
- ┃ ┃ ┃ ┣ 📜Register.jsx
- ┃ ┃ ┃ ┗ 📜SaveTokens.jsx
- ┃ ┃ ┣ 📂main
- ┃ ┃ ┃ ┣ 📜Header.jsx
- ┃ ┃ ┃ ┣ 📜Main.jsx
- ┃ ┃ ┃ ┗ 📜VideoItem.jsx
- ┃ ┃ ┣ 📂play
- ┃ ┃ ┃ ┣ 📜Play.jsx
- ┃ ┃ ┃ ┗ 📜VideoPlayer.jsx
- ┃ ┃ ┣ 📂user
- ┃ ┃ ┃ ┣ 📜EditProfile.jsx
- ┃ ┃ ┃ ┣ 📜Mypage.jsx
- ┃ ┃ ┃ ┗ 📜YtChannelRegister.jsx
- ┃ ┃ ┣ 📜AppRouter.jsx
- ┃ ┃ ┣ 📜Create.jsx
- ┃ ┃ ┣ 📜LyricsSelect.jsx
- ┃ ┃ ┣ 📜OnBoardingPage.jsx
- ┃ ┃ ┣ 📜Pay.jsx
- ┃ ┃ ┣ 📜Search.jsx
- ┃ ┃ ┣ 📜Upload.jsx
- ┃ ┃ ┣ 📜User.jsx
- ┃ ┃ ┗ 📜ViewChart.jsx
- ┃ ┣ 📂styles
- ┃ ┃ ┣ 📜GlobalStyles.js
- ┃ ┃ ┣ 📜index.css
- ┃ ┃ ┗ 📜swal.config.css
- ┃ ┣ 📂utils
- ┃ ┃ ┣ 📜cookies.js
- ┃ ┃ ┗ 📜igonerePath.js
- ┃ ┣ 📜App.jsx
- ┃ ┗ 📜main.jsx
- ┣ 📜.dockerignore
- ┣ 📜.env
- ┣ 📜.eslintrc.cjs
- ┣ 📜.git
- ┣ 📜.gitignore
- ┣ 📜.gitmessage.txt
- ┣ 📜.prettierrc
- ┣ 📜Dockerfile
- ┣ 📜README.md
- ┣ 📜eslint.config.js
- ┣ 📜index.html
- ┣ 📜jsconfig.json
- ┣ 📜package-lock.json
- ┣ 📜package.json
- ┗ 📜vite.config.js
-
-</code>
-</pre>
-</details>
-
-<details>
-    <summary>MVStudio-Backend</summary>
-<pre>
-<code>
-
-📦MVStudio-Backend
-┣ 📂.github
-┣ 📂.idea
-┣ 📂charts
-┃ ┣ 📂__pycache__
-┃ ┣ 📜__init__.py
-┃ ┣ 📜admin.py
-┃ ┣ 📜apps.py
-┃ ┣ 📜models.py
-┃ ┣ 📜tests.py
-┃ ┣ 📜urls.py
-┃ ┗ 📜views.py
-┣ 📂config
-┃ ┣ 📂__pycache__
-┃ ┣ 📜__init__.py
-┃ ┣ 📜asgi.py
-┃ ┣ 📜celery.py
-┃ ┣ 📜settings.py
-┃ ┣ 📜urls.py
-┃ ┗ 📜wsgi.py
-┣ 📂logs
-┣ 📂member
-┃ ┣ 📂__pycache__
-┃ ┣ 📜__init__.py
-┃ ┣ 📜admin.py
-┃ ┣ 📜apps.py
-┃ ┣ 📜callback.py
-┃ ┣ 📜constants.py
-┃ ┣ 📜models.py
-┃ ┣ 📜payment.py
-┃ ┣ 📜serializers.py
-┃ ┣ 📜tests.py
-┃ ┣ 📜urls.py
-┃ ┗ 📜views.py
-┣ 📂music_videos
-┃ ┣ 📂__pycache__
-┃ ┣ 📜admin.py
-┃ ┣ 📜apps.py
-┃ ┣ 📜documents.py
-┃ ┣ 📜models.py
-┃ ┣ 📜s3_utils.py
-┃ ┣ 📜serializers.py
-┃ ┣ 📜tasks.py
-┃ ┣ 📜tests.py
-┃ ┣ 📜urls.py
-┃ ┗ 📜views.py
-┣ 📂oauth
-┃ ┣ 📂__pycache__
-┃ ┣ 📜admin.py
-┃ ┣ 📜apis.py
-┃ ┣ 📜apps.py
-┃ ┣ 📜authenticate.py
-┃ ┣ 📜handler.py
-┃ ┣ 📜mixins.py
-┃ ┣ 📜models.py
-┃ ┣ 📜services.py
-┃ ┣ 📜tests.py
-┃ ┣ 📜urls.py
-┃ ┣ 📜utils.py
-┃ ┗ 📜views.py
-┣ 📜.env
-┣ 📜.git
-┣ 📜.gitignore
-┣ 📜.gitmessage.txt
-┣ 📜Dockerfile
-┣ 📜README.md
-┣ 📜manage.py
-┗ 📜requirements.txt
-
-
-</code>
-</pre>
-</details>
-<br>
 
 # 👥 Team Members
 <table>
   <tr>
     <th>Name</th>
-    <th >조진우</th>
-    <th>강기환</th>
     <th>김진희</th>
-    <th>박유경</th>
-    <th>유성원</th>
-    <th>최호원</th>
+    <th>정영훈</th>
+    <th>이현호</th>
+    <th>최세연</th>
+    <th>박승준</th>
+    <th>김민석</th>
   </tr>
   <tr>
     <th>Profile</th>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/jinoo0306.png" style="width:100px;height:100px;"></td>
-      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/GiHwan2.png" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/HyeonHoLe2.png" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/kimzini.png" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/ukongee.png" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/Youth-one.png" style="width:100px;height:100px;"></td>
@@ -581,7 +284,7 @@ cd MVStudio-Frontend && npm install && npm run build && cd .. && docker-compose 
   <tr>
     <th>GitHub</th>
     <td><a href="https://github.com/jinoo0306">@jinoo0306</a></td>
-    <td><a href="https://github.com/Gihwan2">@Gihwan2</a></td>
+    <td><a href="https://github.com/HyeonHoLe2">@HyeonHoLe2</a></td>
     <td><a href="https://github.com/kimzini">@kimzini</a></td>
     <td><a href="https://github.com/ukongee">@ukongee</a></td>
     <td><a href="https://github.com/Youth-one">@Youth-one</a></td>
