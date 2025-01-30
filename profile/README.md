@@ -82,12 +82,11 @@
 <br>
 
 # 📗 API
- <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/8b30b18a-6ca1-40de-babf-f4f9837ce805">
- <img align="center" width="1000" alt="members" src="https://github.com/user-attachments/assets/a972f4e7-efe0-4d8c-bb78-94a30edf5a35">
-
- <img align="center" width="1000" alt="music-videos" src="https://github.com/user-attachments/assets/b4d3b0ca-14c2-4bdb-a63a-50dab395f1fe">
- <img align="center" width="1000" alt="oauth" src="https://github.com/user-attachments/assets/f910a641-c8f5-4d54-8222-98d34a49f806">
-
+ <img align="center" width="1000" alt="custom-frames" src="https://github.com/user-attachments/assets/8b30b18a-6ca1-40de-babf-f4f9837ce805">
+ <img align="center" width="1000" alt="frames" src="https://github.com/user-attachments/assets/a972f4e7-efe0-4d8c-bb78-94a30edf5a35">
+ <img align="center" width="1000" alt="photos" src="https://github.com/user-attachments/assets/f1bbcc0c-7e5d-42db-a327-29326904641d">
+ <img align="center" width="1000" alt="stickers" src="https://github.com/user-attachments/assets/2f422b20-73c5-4783-b924-8880b09ae868">
+ <img align="center" width="1000" alt="users" src="https://github.com/user-attachments/assets/2f422b20-73c5-4783-b924-8880b09ae868">
 
 <br><br>
 
