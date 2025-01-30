@@ -265,12 +265,12 @@
   </tr>
   <tr>
     <th>Profile</th>
-      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/jinoo0306.png" style="width:100px;height:100px;"></td>
-      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/HyeonHoLe2.png" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/kimzini.png" style="width:100px;height:100px;"></td>
-      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/ukongee.png" style="width:100px;height:100px;"></td>
-      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/Youth-one.png" style="width:100px;height:100px;"></td>
-      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/BMHowon.png" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/j0hun.png" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/HyeonHoLe2.png" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/Seyeonnnn.png" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/turtlejun05.png" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/ms200279.png" style="width:100px;height:100px;"></td>
   </tr>
   <tr>
     <th>Role</th>
@@ -283,12 +283,12 @@
   </tr>
   <tr>
     <th>GitHub</th>
-    <td><a href="https://github.com/jinoo0306">@jinoo0306</a></td>
-    <td><a href="https://github.com/HyeonHoLe2">@HyeonHoLe2</a></td>
     <td><a href="https://github.com/kimzini">@kimzini</a></td>
-    <td><a href="https://github.com/ukongee">@ukongee</a></td>
-    <td><a href="https://github.com/Youth-one">@Youth-one</a></td>
-    <td><a href="https://github.com/BMHowon">@BMHowon</a></td>
+    <td><a href="</a>https://github.com/j0hun">@j0hun</a></td>
+    <td><a href="https://github.com/HyeonHoLe2">@HyeonHoLe2</a></td>
+    <td><a href="https://github.com/Seyeonnnn">@Seyeonnnn</a></td>
+    <td><a href="https://github.com/turtlejun05">@turtlejun05</a></td>
+    <td><a href="https://github.com/ms200279">@ms200279</a></td>
   </tr>
 </table>
 <br>
