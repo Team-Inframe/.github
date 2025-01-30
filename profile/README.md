@@ -81,28 +81,6 @@
 
 <br>
 
-### Analyzing My Channel
-> 사용자는 자신이 만든 뮤직비디오의 시청 추이를 날짜별 조회수, 성별, 국가별, 연령대별 차트로 분석할 수 있습니다.
-<br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/ba0e7494-5eb5-41d6-bcf6-e5cb9e44b8b1">
-
-<br>
-
-### Upload Music Video
-> 사용자는 자신의 뮤직비디오를 유튜브에 업로드할 수 있습니다.
-<br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/bb63268f-655f-4511-a618-81ec54150e05">
-
-<br>
-
-### Buy Credits
-> 뮤직비디오 제작에 필요한 크레딧은 카카오페이를 통해 결제할 수 있습니다.
-<br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/99b7d465-ff65-4b11-b836-532681a6bd29">
-
-
-<br>
-
 # 📗 API
  <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/aef0f280-3a65-40c2-8c32-2f3027465718">
  <img align="center" width="1000" alt="members" src="https://github.com/user-attachments/assets/93f56572-e398-4810-a89b-4869fcae5ccb">
