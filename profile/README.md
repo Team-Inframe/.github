@@ -3,7 +3,7 @@
 <div align="center"> 
 <h3><b> 인생네컷을 내맘대로 꾸며보고 싶지 않으셨나요? 
         놀랍게도 InFrame에서는 꾸며볼수 있습니다!! 꿈을 한번 펼쳐보세요 InFrame</b></h3><br>
-<img width="1503" src="https://github.com/user-attachments/assets/a2d92e5a-bf1e-4d68-a19e-50a1dbdd0968">
+<img width="1503" src="https://github.com/user-attachments/assets/16c13345-feb0-4a39-850b-508d23694c0c">
 <h3><b>MVStudio를 통해 창의적인 아이디어를 실현해 보세요!</b></h3>
 
 <br>
