@@ -141,7 +141,7 @@
         <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=black">
         <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
         <img src="https://img.shields.io/badge/Traefik-61DAFB?style=for-the-badge&logo=traefik&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-hub-2496ED?style=for-the-badge&logo=dockerhub&logoColor=white">
+        <img src="https://img.shields.io/badge/Dockerhub-2496ED?style=for-the-badge&logo=dockerhub&logoColor=white">
       </td>
     </tr>
     <tr>
