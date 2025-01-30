@@ -141,6 +141,7 @@
         <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=black">
         <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
         <img src="https://img.shields.io/badge/Traefik-61DAFB?style=for-the-badge&logo=traefik&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-Hub-2496ED?style=for-the-badge&logo=docker-hub&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -166,6 +167,7 @@
         <img src="https://img.shields.io/badge/cadvisor-1478FF?style=for-the-badge&logoColor=black">
         <img src="https://img.shields.io/badge/node_exporter-37D100?style=for-the-badge&logoColor=black">
         <img src="https://img.shields.io/badge/Loki-%23F46800.svg?style=for-the-badge&logoColor=black">
+        <img src="https://img.shields.io/badge/promtail-%23F46800.svg?style=for-the-badge&logo=promtail&logoColor=black">
       </td>
     </tr>
     <tr>
