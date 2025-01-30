@@ -194,22 +194,29 @@
             <th colspan="2">Django</th>
         </tr>
         <tr>
-            <td><img src="https://github.com/user-attachments/assets/07339efc-48c9-4b9d-b6a1-ea19910eb1db" alt="Django"></td>
-            <td><img src="https://github.com/user-attachments/assets/e4099e6f-7463-4b95-af36-f1690b917073" alt="Django2"></td>
+            <td><img src=""></td>
+            <td><img src=""></td>
         </tr>
         <tr>
             <th colspan="2">Celery</th>
         </tr>
         <tr>
-            <td><img src="https://github.com/user-attachments/assets/fa28316e-e970-4135-904c-4ad33acba09d" alt="Celery"></td>
-            <td><img src="https://github.com/user-attachments/assets/147d696f-7ff6-40b9-b616-0e28af433d3f" alt="Celery2"></td>
+            <td><img src=""></td>
+            <td><img src=""></td>
         </tr>
         <tr>
             <th colspan="2">cAdvisor</th>
         </tr>
         <tr>
-            <td><img src="https://github.com/user-attachments/assets/b93021b8-a7c5-4943-bcd3-e1d4bd368b1b" alt="cAdvisor"></td>
-            <td><img src="https://github.com/user-attachments/assets/fd92cd24-9a2b-49e4-abaf-c58b7612c4b1" alt="cAdvisor2"></td>
+            <td><img src=""></td>
+            <td><img src=""></td>
+        </tr>
+        <tr>
+            <th colspan="2">Node Exporter</th>
+        </tr>
+        <tr>
+            <td><img src=""></td>
+            <td><img src=""></td>
         </tr>
     </table>
 </div>
