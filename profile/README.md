@@ -19,15 +19,13 @@
 * [ERD](#-erd)
 * [Tech Stack](#-tech-stack)
 * [Monitoring](#-monitoring)
-* [How to start](#-how-to-start)
-* [Directory Structure](#-directory-structure)
 * [Team Members](#-team-members)
 
 <br>
 
 # 📣 Introduction
 ### URL
-> 🖥️  (배포 중단)
+> 🖥️  (배포 시작)
 
 ### Medium
 > 🔎 [InFrame]() &nbsp;
