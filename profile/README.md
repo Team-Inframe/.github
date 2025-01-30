@@ -142,6 +142,7 @@
         <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=black">
         <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=black">
         <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+        <img src="https://img.shields.io/badge/traefik-61DAFB?style=for-the-badge&logo=traefik&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -156,8 +157,7 @@
     <tr>
       <td><b>AI</b></td>
       <td>
-         <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-
+          <img src="https://img.shields.io/badge/dalle3-5A0FC8?style=for-the-badge&logo=dalle3&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -167,7 +167,7 @@
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=black">
         <img src="https://img.shields.io/badge/cadvisor-1478FF?style=for-the-badge&logoColor=black">
         <img src="https://img.shields.io/badge/node_exporter-37D100?style=for-the-badge&logoColor=black">
-      
+        <img src="https://img.shields.io/badge/grafana loki-%23F46800.svg?style=for-the-badge&logoColor=black">
       </td>
     </tr>
     <tr>
