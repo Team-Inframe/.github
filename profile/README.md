@@ -211,24 +211,7 @@
             <td><img src="https://github.com/user-attachments/assets/b93021b8-a7c5-4943-bcd3-e1d4bd368b1b" alt="cAdvisor"></td>
             <td><img src="https://github.com/user-attachments/assets/fd92cd24-9a2b-49e4-abaf-c58b7612c4b1" alt="cAdvisor2"></td>
         </tr>
-        <tr>
-            <th colspan="2">Node Exporter</th>
-        </tr>
-        <tr>
-            <td><img src="https://github.com/user-attachments/assets/337fa024-9a4c-4ac3-a6b5-a469d17db4a8" alt="Node Exporter"></td>
-            <td><img src="https://github.com/user-attachments/assets/0828286c-a4a5-4fb5-84be-4af5c9fcae90" alt="Node Exporter2"></td>
-        </tr>
     </table>
-  <br>
-  
-  <h3 align="left">Cloud Watch</h3>
-  <img width="1000" alt="Cloud Watch" src="https://github.com/user-attachments/assets/8d5293c1-ec6e-4743-b3b9-06c44a94c575">
-  
-  <br>
-  
-  <h3 align="left">ELK</h3>
-  <img width="1000" alt="ELK2" src="https://github.com/user-attachments/assets/3e5d7125-2a92-44d4-bd33-eba6bbd4ac15">
-  
 </div>
 
 <br>
@@ -237,9 +220,7 @@
 
 <div align="center">
    
-   |**ELK**|
-   |:---------:|
-   |<img width="1000" alt="ELK" src="https://github.com/user-attachments/assets/5991a158-203e-471f-b755-2c8de1a86050">|
+
    
 </div>
 
