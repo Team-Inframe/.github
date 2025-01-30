@@ -26,9 +26,9 @@
 # 📣 Introduction
 ### URL
 > 🖥️  (배포 시작)
-<https://medium.com/@rlawlsdl11111/2024-silicon-valley-winter-bootcamp-four-cuts-of-my-memories-in-frame-bbd32f43dc1b>
+
 ### Medium
-> 🔎 [InFrame]() &nbsp;
+> 🔎 [InFrame](https://medium.com/@rlawlsdl11111/2024-silicon-valley-winter-bootcamp-four-cuts-of-my-memories-in-frame-bbd32f43dc1b) &nbsp;
 
 <br>
 
