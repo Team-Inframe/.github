@@ -45,6 +45,7 @@
 
 # 🕺🏻 Demo
 ### Onboarding Page
+
 > InFrame의 간략한 설명을 담고 있습니다.
 <img align="center" width="1000" alt="Onboarding" src=" ">
 
@@ -53,7 +54,7 @@
 ### Login & Sign up
 > 로그인 및 회원가입을 통해 손쉽게 로그인하실 수 있습니다.
 <br>
-<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/b074a035-daed-48f3-bbb8-81c35d1ba555">
+<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/46e31db7-92f8-417d-82db-bf14ce48bcfb">
 
 <br>
 
