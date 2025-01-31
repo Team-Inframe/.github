@@ -54,7 +54,8 @@
 ### Login & Sign up
 > 로그인 및 회원가입을 통해 손쉽게 로그인하실 수 있습니다.
 <br>
-<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/46e31db7-92f8-417d-82db-bf14ce48bcfb">
+<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/70100286-e4f0-49ee-b26d-d1a6e1565e43">
+
 
 <br>
 
@@ -62,7 +63,7 @@
 > 다른 사람들이 만든 프레임을 볼 수 있습니다.<br>
 > 최신순, 핫한순(하루 마다 바뀜)으로 목록 조회 할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/07530761-747a-4bda-a6f6-1819d6473b85">
+<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/c1ed98ff-a15b-4f7b-a6dd-7615a978435e">
 
 <br>
 
@@ -80,8 +81,21 @@
 <br>
 <img align="center" width="1000" alt="" src=" ">
 
+
+<br>
+### Take a Photo & sharing
+> 사용자는 보관함에서 내가 만든 프레임, 저장한 프레임, 갤러리로 네컷 사진, 프레임을 확인 할 수 있습니다.<br>
+> 내가 만든 프레임, 저장한 프레임, 갤러리는 최신순으로 정렬 되어있습니다.
+<br>
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/6b6ec9e2-3d1f-4694-8361-d2d997783dee">
+
+### Weather Frame 
+> 사용자는 보관함에서 내가 만든 프레임, 저장한 프레임, 갤러리로 네컷 사진, 프레임을 확인 할 수 있습니다.<br>
+> 내가 만든 프레임, 저장한 프레임, 갤러리는 최신순으로 정렬 되어있습니다.
 <br>
 
+
+### 
 # 📗 API
  <img align="center" width="1000" alt="custom-frames" src="https://github.com/user-attachments/assets/8b30b18a-6ca1-40de-babf-f4f9837ce805">
  <img align="center" width="1000" alt="frames" src="https://github.com/user-attachments/assets/a972f4e7-efe0-4d8c-bb78-94a30edf5a35">
