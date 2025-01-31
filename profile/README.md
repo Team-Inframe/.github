@@ -62,7 +62,7 @@
 > 다른 사람들이 만든 프레임을 볼 수 있습니다.<br>
 > 최신순, 핫한순(하루 마다 바뀜)으로 목록 조회 할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="Login & Sign up" src=" ">
+<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/07530761-747a-4bda-a6f6-1819d6473b85">
 
 <br>
 
@@ -70,7 +70,7 @@
 > 사용자는 프레임,기본 배경,사진 배경, ai 스티커, 사진 스티커를 설정하여 프레임을 생성 할 수 있습니다.<br>
 > 마지막으로 사진 촬영, 사진 삽입으로 네컷 사진을 생성할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src=" ">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/7c58ea22-27df-479d-910e-1867c2a82de9">
 
 <br>
 
