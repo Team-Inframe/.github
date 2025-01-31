@@ -27,9 +27,6 @@
 ### URL
 > 🖥️  (배포 시작)
 
-
-
-
 ### Medium
 > 🔎 [InFrame](https://medium.com/@rlawlsdl11111/2024-silicon-valley-winter-bootcamp-four-cuts-of-my-memories-in-frame-bbd32f43dc1b) &nbsp;
 
@@ -44,18 +41,11 @@
 <br>
 
 # 🕺🏻 Demo
-### Onboarding Page
-
-> InFrame의 간략한 설명을 담고 있습니다.
-<img align="center" width="1000" alt="Onboarding" src=" ">
-
-
 
 ### Login & Sign up
 > 로그인 및 회원가입을 통해 손쉽게 로그인하실 수 있습니다.
 <br>
 <img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/70100286-e4f0-49ee-b26d-d1a6e1565e43">
-
 
 <br>
 
