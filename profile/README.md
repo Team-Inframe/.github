@@ -93,8 +93,9 @@
 
 ### Weather Frame 
 > 사용자가 살고있는 지역의 날씨를 프레임에 자동으로 반영합니다.<br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/1c0944c8-b011-4f1e-ab70-6bbec1a732ef">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/3c7dea57-11a2-4ef5-b29c-10549f145b1f">
 <br>
+
 ### 
 # 📗 API
  <img align="center" width="1000" alt="custom-frames" src="https://github.com/user-attachments/assets/8b30b18a-6ca1-40de-babf-f4f9837ce805">
