@@ -69,7 +69,8 @@
 > 사용자는 보관함에서 내가 만든 프레임, 저장한 프레임, 갤러리로 네컷 사진, 프레임을 확인 할 수 있습니다.<br>
 > 내가 만든 프레임, 저장한 프레임, 갤러리는 최신순으로 정렬 되어있습니다.
 <br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/5e0a0a8c-5289-4545-aeaf-0cd8559da610">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/adf7f562-e95e-4bae-9d53-55745a98dd85">
+
 
 <br>
 
